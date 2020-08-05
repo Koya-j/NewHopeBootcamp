@@ -29,32 +29,33 @@ body {
 h1 {
 
     /* Set the font size to 30 pixels */
-
+    font-size: 30px;
 }
 
 h2 {
     /* Set the font size to 25 pixels */
-
+    font-size: 25;
 }
 
 h3 {
     /* Set the font size to 20 pixels */
-
+    font-size: 20px;
 }
 
 p {
     /* Set the font size to 18 pixels */
-
+    font-size: 18px;
 }
 
 .caption-name {
     /* set font size to 15 pixels and make text bold */
-
+    font-size: 15px;
+    font-weight: bold
 }
 
 .caption-title {
     /* set font size to 13 pixels */
-
+    font-size: 13px;
 }
 
 img {
