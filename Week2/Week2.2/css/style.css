@@ -27,12 +27,14 @@ body {
 }
 
 h1 {
-
     /* Set the font size to 30 pixels */
+<<<<<<< HEAD
     font-size: 30px;
 <<<<<<< HEAD
 =======
 
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
 >>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
@@ -40,18 +42,24 @@ h1 {
 h2 {
     /* Set the font size to 25 pixels */
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size: 25;
 =======
     font-size: 25px;
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
 >>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
 
 h3 {
     /* Set the font size to 20 pixels */
+<<<<<<< HEAD
     font-size: 20px;
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
 >>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
@@ -67,20 +75,26 @@ p {
 
 .caption-name {
     /* set font size to 15 pixels and make text bold */
+<<<<<<< HEAD
     font-size: 15px;
 <<<<<<< HEAD
     font-weight: bold
 =======
     font-weight: bold;
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
 >>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
 
 .caption-title {
     /* set font size to 13 pixels */
+<<<<<<< HEAD
     font-size: 13px;
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
 >>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 }
@@ -92,7 +106,7 @@ img {
     object-fit: cover;
 }
 
-.container {
+/* .container {
     display: inline-block;
 }
 
@@ -109,4 +123,4 @@ nav {
 nav li {
     display: inline;
     margin-right: 1rem;
-}
+} */

@@ -94,43 +94,51 @@ nav li {
 .nav_item {
     /* remove the underline for a hyperlink */
 <<<<<<< HEAD
+<<<<<<< HEAD
     /* text-decoration: none; */
 }   text-decoration: none;
 =======
     text-decoration: none;
+=======
+    /* text-decoration: none; */
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 }
 >>>>>>> 900e16709bfb5cb9a37de407c8bae3403d52dd0c
 
 .flex-container {
 
     /* Parent must have display set to flex */
+<<<<<<< HEAD
     display: flex;
 <<<<<<< HEAD
     /* Set flex-direction to row */
     flex-direction: row;
 =======
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
     /* Set flex-direction to row */
-    flex-direction: row;
 
 >>>>>>> 900e16709bfb5cb9a37de407c8bae3403d52dd0c
     /* Center each row on the page (hint: justify-content) */
-    justify-content: center;
+
 }
 
 .flex-item {
 
     /* Set all-around margin to 1rem */
+<<<<<<< HEAD
     margin: 1rem;
 <<<<<<< HEAD
     /* Make names and titles centered with pictures 
     (hint: text-align) */
     text-align: center;
 =======
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
     /* Make names and titles centered with pictures 
     (hint: text-align) */
-    text-align: center;
     
 >>>>>>> 900e16709bfb5cb9a37de407c8bae3403d52dd0c
 }
@@ -138,6 +146,7 @@ nav li {
 .staff-category-text {
 
     /* Set font-weight to bold */
+<<<<<<< HEAD
     font-weight: bold;
 <<<<<<< HEAD
     /* Set font-size to 40 px */
@@ -145,12 +154,12 @@ nav li {
     /* Add all-around margin of 7rem */
     margin: 7rem
 =======
+=======
+>>>>>>> 66eb6ff3728cfccd6cd4c851ae8f0d641a2049c4
 
     /* Set font-size to 40 px */
-    font-size: 40px;
 
     /* Add all-around margin of 7rem */
-    margin: 7rem;
 
 >>>>>>> 900e16709bfb5cb9a37de407c8bae3403d52dd0c
 }
